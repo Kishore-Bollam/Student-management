@@ -1,0 +1,8 @@
+.bg-colo{
+    background-color: #090909e8;
+    height: 100%;
+    color: whitesmoke;
+    font-weight: bolder;
+    border: 5px solid hotpink;
+    border-radius: 20px;   
+}

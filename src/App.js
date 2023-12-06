@@ -1,23 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter } from "react-router-dom";
+import "./App.css";
+import { Menu } from "./components/user/menu/menu.component";
+import { AppRouter } from "./app.router";
+import UseState from "./practice/useState";
+// import { Pracice } from "./practice/practice";
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="bg">
+      <BrowserRouter>
+        <div className="row menu">
+          <div className="col-2 text-white p-3 "> VKC-LOGO </div>
+          <div className="col-10">
+            <Menu></Menu>{" "}
+          </div>
+        </div>
+        <AppRouter></AppRouter>
+      </BrowserRouter>
+
+      {/* <Pracice></Pracice> */}
+      <UseState></UseState>
     </div>
   );
 }

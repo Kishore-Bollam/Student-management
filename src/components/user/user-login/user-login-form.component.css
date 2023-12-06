@@ -1,0 +1,10 @@
+.bg-color{
+    background-color: #090909e8;
+    height: 400px;
+    padding: 100px;
+    color: whitesmoke;
+    font-weight: bolder;
+    border: 5px solid hotpink;
+    border-radius: 20px;
+    
+}

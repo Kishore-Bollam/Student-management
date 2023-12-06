@@ -1,0 +1,148 @@
+{
+  "user-Registration": [
+    {
+      "id": 1,
+      "name": "kishore bollam",
+      "email": "bollamkishore@gmail.com",
+      "phoneno": 6303130161,
+      "gender": "male",
+      "dob": "12-31-2202",
+      "address": "hyderabad"
+    },
+    {
+      "Name": "kishore bollam",
+      "Email": "bollamkishore1995@gmail.com",
+      "PhoneNumber": "03456787654",
+      "Gender": "on",
+      "DateofBirth": "2023-10-25",
+      "Address": "HNO 08-70\nBC COLONEY, GANGARAM, KATARAM",
+      "id": 3
+    },
+    {
+      "Name": "kishore bollam",
+      "Email": "bollamkishore1995@gmail.com",
+      "PhoneNumber": "03456787654",
+      "Gender": "on",
+      "DateofBirth": "2023-11-04",
+      "Address": "HNO 08-70\nBC COLONEY, GANGARAM, KATARAM",
+      "id": 4
+    },
+    {
+      "Name": "abcd",
+      "Email": "abcd@gmail.com",
+      "PhoneNumber": "34567765434",
+      "Gender": "on",
+      "DateofBirth": "2023-10-25",
+      "Address": "gjhg",
+      "id": 5
+    },
+    {
+      "Name": "wedding",
+      "Email": "abcd@gmail.com",
+      "PhoneNumber": "34567765434",
+      "Gender": "on",
+      "DateofBirth": "2023-10-27",
+      "Address": "gjhg",
+      "id": 6
+    },
+    {
+      "Name": "erty",
+      "Email": "karthik@gmail.com",
+      "PhoneNumber": "07893804073",
+      "Gender": "on",
+      "DateofBirth": "2023-10-15",
+      "Address": "MOTHINAGAR",
+      "id": 7
+    },
+    {
+      "Name": "dfg",
+      "Email": "abcd@gmail.com",
+      "PhoneNumber": "34567765434",
+      "Gender": "on",
+      "DateofBirth": "2023-11-04",
+      "Address": "gjhg",
+      "id": 8
+    },
+    {
+      "Name": "kis",
+      "Email": "fghjm@gmail.com",
+      "PhoneNumber": "5678",
+      "Gender": "on",
+      "DateofBirth": "2023-10-28",
+      "Address": "fghj",
+      "id": 9
+    },
+    {
+      "Name": "kishore bollam",
+      "Email": "bollamkishore1995@gmail.com",
+      "PhoneNumber": "5678",
+      "Gender": "on",
+      "DateofBirth": "2023-11-03",
+      "Address": "HNO 08-70\nBC COLONEY, GANGARAM, KATARAM",
+      "id": 10
+    },
+    {
+      "Name": "wedding",
+      "Email": "bollamkishore1995@gmail.com",
+      "PhoneNumber": "456",
+      "Gender": "on",
+      "DateofBirth": "2023-11-09",
+      "Address": "HNO 08-70\nBC COLONEY, GANGARAM, KATARAM",
+      "id": 11
+    },
+    {
+      "Name": "kishore bollam",
+      "Email": "bollamkishore1995@gmail.com",
+      "PhoneNumber": "123456",
+      "Gender": "on",
+      "DateofBirth": "2023-10-17",
+      "Address": "HNO 08-70\nBC COLONEY, GANGARAM, KATARAM",
+      "id": 12
+    },
+    {
+      "Name": "ghj",
+      "Email": "bollamkishore1995@gmail.com",
+      "PhoneNumber": "345",
+      "Gender": "on",
+      "DateofBirth": "2023-10-15",
+      "Address": "HNO 08-70\nBC COLONEY, GANGARAM, KATARAM",
+      "id": 13
+    }
+  ],
+  "user-login": [
+    {
+      "id": 1,
+      "email": "kishore bollam",
+      "password": 123456789
+    },
+    {
+      "username": "bollamkishore1995@gmail.com",
+      "password": "1111",
+      "id": 2
+    },
+    {
+      "username": "abcd@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "username": "bollamkishore1995@gmail.com",
+      "password": "sdfghjkjhgfd",
+      "id": 4
+    }
+  ],
+  "timesheet": [
+    {
+      "id": 1,
+      "date": "13-10-2023",
+      "LoginTime": "10am",
+      "signOut": "6pm"
+    },
+    {
+      "date": "2023-10-12",
+      "login": "13:03",
+      "signout": "17:02",
+      "id": 2
+    }
+  ]
+}

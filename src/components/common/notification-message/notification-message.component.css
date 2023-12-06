@@ -1,0 +1,37 @@
+[data-type = "success"]{
+    background-color: green;
+    padding: 10px;
+}
+
+[data-type = "error"]{
+    background-color: red;
+    padding: 10px;
+}
+
+[data-type = "info"]{
+    background-color: blue;
+    padding: 10px;
+}
+
+[data-type ="success"],[data-type ="error"],[data-type = "info"]{
+    color: white;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+.notification-message{
+    position: fixed;
+    top: 70px;
+    right: 10px;
+    padding: 10px;
+    font-size: 1.2em;
+    border-radius: 10px;
+    cursor: pointer;
+
+
+}
+.close-btn{
+    float: right;
+    padding-left: 25px;
+    cursor: pointer;
+}
